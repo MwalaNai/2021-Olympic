@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-nm",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b64f51ee-6591-4bf9-adbc-4c72c34a258d",
+		"tenantId": "6d075105-d8d4-4d32-a36c-bca47db9dcf1"
+	}
+}
